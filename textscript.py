@@ -1,4 +1,4 @@
-from main import *
+from myzsowski import *
 
 def run_script():
     msg = "SECRETATTACKATDAWN"
